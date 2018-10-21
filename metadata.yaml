@@ -1,5 +1,5 @@
 _repo: Geschichte-des-Agathon-Teil-1_2313
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'Bildungsromans'
 - !lcsh 'Greece -- Fiction'
 - !lcc 'PT'
+- GITenberg
 title: Geschichte des Agathon. Teil 1
 url: http://www.gutenberg.org/ebooks/2313
